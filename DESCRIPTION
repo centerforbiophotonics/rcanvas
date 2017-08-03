@@ -1,4 +1,4 @@
-Package: rcanvas
+Package: rcanvascee
 Title: R Client for Canvas API
 Version: 0.0.0.9001
 Authors@R: c(
